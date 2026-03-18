@@ -1,6 +1,6 @@
 # Hi, my name is Kevin Arias
 ### Love Coding
-I am Kevin Arias and I like designing and making projects whether creating websites or apps. I like to create projects and learn from them making my skill better.   
+I am Kevin Arias and I like designing and making projects whether creating websites or apps. I like to create projects and learn from them making my skills better.   
 
 Skills: HTML / CSS / JS / SQL / JAVA / C / C# / SQL
 
